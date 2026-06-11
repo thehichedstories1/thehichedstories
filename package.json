@@ -1,0 +1,25 @@
+{
+  "name": "website-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isandeep06/thehitchedstories.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/isandeep06/thehitchedstories/issues"
+  },
+  "homepage": "https://github.com/isandeep06/thehitchedstories#readme",
+  "dependencies": {
+    "cloudinary": "^2.9.0",
+    "dotenv": "^17.4.2"
+  }
+}

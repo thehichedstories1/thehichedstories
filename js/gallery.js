@@ -28,7 +28,7 @@ function initGalleryFilters() {
 
             galleryItems.forEach(item => {
                 const isMatch = filter === 'all'
-                    ? item.dataset.category === 'all'
+                    ? true
                     : item.dataset.category === filter;
 
                 if (isMatch) {
